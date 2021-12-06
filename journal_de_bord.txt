@@ -61,6 +61,27 @@ j'ai appris ce qu'est HTML, les versions de HTML et quelques éléments de base,
        khalid hagane 
        khalidhagane62@gmail.com
 
+
+
+
+
+
+						             le 06/12/2021
+
+
+      Bonsoir Monsieur Youssef,
+
+ Dans la part d'aojourd'ui j'ai documontation sur media quiries, j'ai fait un quizz HTML et CSS.
+ j'ai appris des balises que je ne savois pas aprés j'ai travaillé  
+au brief 2 devenir responsive.
+Cela rendra les sitesnweb responsive et facile.
+
+
+
+	
+       khalid hagane 
+       khalidhagane62@gmail.com
+
  
  
 
