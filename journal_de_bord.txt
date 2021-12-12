@@ -101,4 +101,50 @@ et avouns répondu à quelques questions.
        khalid hagane 
        khalidhagane62@gmail.com
 
- 						
+
+
+	
+
+
+
+  								      le 08/12/2021 et 09/12/2021
+
+
+      Bonsoir Monsieur Youssef,
+
+ J'ai commencé docummentation au adobe xd aprés travaille sur dessine le formulaire.
+  ensuite, j'ai convertir la dessine en sit web mobile aprés ca il l'a fait responsive 
+J'ai appris à travailler adobe xd cela m'aidira à devlopper mes compétences en travaillant sur 
+le devant de sites web. 
+
+
+	
+       khalid hagane 
+       khalidhagane62@gmail.com	
+
+
+
+
+
+
+
+                        						 le 10/12/2021 
+
+
+      Bonsoir Monsieur Youssef,
+
+ 
+Dans la séance aujourd'hui, j'ai terminé le brief 4 nous avons commencé "live coding" avec squad fatiha  
+  environ les outils css.
+J'ai appris les type de position :
+ -position statique 
+ -position relative 
+ -position absolite
+ -postion fixed
+ 
+
+
+	
+       khalid hagane 
+       khalidhagane62@gmail.com	
+					
